@@ -26,4 +26,4 @@ In this repository you will find data from the Public County Health data that ha
 
 Shown below is a graphical image of adult obesity and the food environment index levels in North Carolina. You can see that the levels consistantly have a strong pattern of being extremely high in almost every county. 
 
-![image](https://user-images.githubusercontent.com/118304201/204200150-7a454ea4-e526-4c9f-9de2-9b3d36aa60fd.png)
+![image](https://user-images.githubusercontent.com/118304201/204328790-3543ea86-6cb2-4b06-bb29-8e1b44ba66e8.png)
