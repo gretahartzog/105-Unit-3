@@ -19,7 +19,7 @@ The data set allows you to edit the rows and columns to simplify it a specific t
 
 It is encouraged that users will find data they are interested in and use this repository to edit the columns and rows to make it easier to understand. 
 
-In this repository you will find data from the Public County Health data that has already been simplified but users should follow the steps given in Data.ipynb ( http://localhost:8888/lab/tree/Desktop/unit%203%20project/Data.ipynb ) to adapt their own sets. 
+In this repository you will find data from the Public County Health data that has already been simplified but users should follow the steps given in Data.ipynb (http://localhost:8888/lab/tree/Desktop/unit%203%20project/Data.ipynb) to adapt their own sets. 
 
 
 ### Analysis
